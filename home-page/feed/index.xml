@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: HOME PAGE	</title>
-	<atom:link href="http://localhost/wordpress/home-page/feed/?simply_static_page=324" rel="self" type="application/rss+xml" />
-	<link></link>
+	Comments on: Home page	</title>
+	<atom:link href="http://localhost/wordpress/home-page/feed/?simply_static_page=396" rel="self" type="application/rss+xml" />
+	<link>/home-page/</link>
 	<description></description>
-	<lastBuildDate>Tue, 07 Feb 2023 19:16:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Feb 2023 19:19:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
